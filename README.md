@@ -1,1 +1,6 @@
-# DPO-frontend-and-backend-2
+
+# Проект
+Этот репозиторий является каркасом для будущего веб-приложения.
+
+# Ссылки
+- [Публичная страница на GitHub Pages](https://z1ec.github.io/DPO-frontend-and-backend-2/)
